@@ -3,11 +3,11 @@
 %% RiSE's latex template for thesis and dissertations
 %% http://risetemplate.sourceforge.net
 %%
-%% (c) 2010 Yguaratã Cerqueira Cavalcanti (yguarata@gmail.com)
-%%          Vinicius Cardoso Garcia (vinicius.garcia@gmail.com)
+%% (c) 2019 Pedro Henrique Magalhães Braga (phmb4@cin.ufpe.br)
+%%     Template accepted for publication in March 2019.
 %%
-%% This document was initially based on UFPEThesis template, from Paulo Gustavo
-%% S. Fonseca.
+%% This document was initially based on the adapted RiSeThesis template, from
+%% Yguaratã Cavalcanti and Vinicius Garcia.
 %%
 %% ACKNOWLEDGEMENTS
 %%
