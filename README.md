@@ -26,6 +26,8 @@ Template accepted for publication in March 2019.
   - \chref — for chapter reference (e.g., \chreg{chap:intro})
   - \sref — for section reference (e.g., \sreg{sec:objectives})
   
+- PDF files: change the files banca.pdf and catalog.pdf inside the folder "default_contents" when you receive the official version from the secretary and the library, respectively.
+  
 - More infomation can be found reading the [risethesis.cls](https://github.com/phbraga/phmb4-risethesis-template/blob/master/risethesis.cls) and the README.md from the previous [RiSeThesis template](https://github.com/yguarata/risethesis).
 
 # For UFPE students
