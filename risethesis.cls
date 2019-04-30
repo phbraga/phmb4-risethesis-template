@@ -28,7 +28,7 @@
 
 \DeclareOption{en}{%
   \let\@language=1%
-  \PassOptionsToPackage{english,brazil}{babel}}
+  \PassOptionsToPackage{english}{babel}}
 
 \DeclareOption{oneside}{%
   \PassOptionsToClass{oneside}{book}}
